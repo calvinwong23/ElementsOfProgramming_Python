@@ -1,0 +1,19 @@
+{
+  "name": "elementsofprogramming_python",
+  "version": "1.0.0",
+  "description": "Element of Progrmming interviews Python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinwong23/ElementsOfProgramming_Python.git"
+  },
+  "author": "Calvin Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinwong23/ElementsOfProgramming_Python/issues"
+  },
+  "homepage": "https://github.com/calvinwong23/ElementsOfProgramming_Python#readme"
+}
